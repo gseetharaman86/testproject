@@ -1,0 +1,22 @@
+{
+  "name": "@gseetharaman86/testproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gseetharaman86/testproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gseetharaman86/testproject/issues"
+  },
+  "homepage": "https://github.com/gseetharaman86/testproject#readme",
+  "publishConfig": {
+    "@gseetharaman86:registry": "https://npm.pkg.github.com"
+  }
+}
