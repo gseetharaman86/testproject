@@ -4,5 +4,6 @@ public class HelloWorld {
 		String unread = "Let's do something evil.";
 		System.out.println("Hello SonarQube!");
 		System.out.println("Hello SonarQube! Additional Coverage");
+		System.out.println("Hello SonarQube! Additional Coverage1");
 	}
 }
